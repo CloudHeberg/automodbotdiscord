@@ -1,0 +1,2 @@
+# automodbotdiscord
+automod
